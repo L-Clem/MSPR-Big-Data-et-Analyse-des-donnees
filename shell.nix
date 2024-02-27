@@ -9,5 +9,6 @@ pkgs.mkShellNoCC {
     python3
     python311Packages.jupyterlab
     postgresql
+    curl
   ];
 }
