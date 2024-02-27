@@ -8,5 +8,6 @@ pkgs.mkShellNoCC {
     git
     python3
     python311Packages.jupyterlab
+    postgresql
   ];
 }
