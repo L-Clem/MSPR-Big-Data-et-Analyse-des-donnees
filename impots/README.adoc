@@ -1,51 +1,61 @@
 .Colonnes à garder
 [%autowidth]
 |===
-| Colonne | Type | Commentaire
+| Colonne | Type | Commentaire 
 
 | Annee 
 | INT
-| 
+|
+
 
 | Département
 | INT
-| 
+|
+
 
 | Retraites_et_pensions_Montant
 | FLOAT
-| 
+| Total des pensions, retraites et rentes
+
 
 | Retraites_et_pensions_Nombre_de_foyers_concernes
 | INT
 | Nombres de foyers retraitées ou qui touchent des pensions
 
+
 | Traitements_et_salaires_Montant
 | FLOAT
-| Tous les revenus d'activité qui sont déclarés comme des revenus ou des gains 
+| Tous revenus d'activité qui sont déclarés comme des revenus ou des gains 
+
 
 | Traitements et salaires Nombre de foyers concernes
 | INT
 | 
 
-| Revenus_fiscal_de_reference_des_foyers fiscaux imposes
-| FLOAT
-| Montant net des revenus et plus values retenues pour le calcul de l'impot. Prend les entrepreneurs les cotisations d'
 
 | Nombre de foyers fiscaux imposes
 | INT
-| 
+| Foyers fiscaux ayant un impôt sur le revenu à acquitter
+
 
 | Nombre de foyers fiscaux
 | INT
-| ff totaux
+| Foyers fiscaux n'ayant aucun impôt sur le revenu à acquitter ou bénéficiant d'une restitution partielle ou totale
+
 
 | Impot net total
 | FLOAT
-| Somme de l’impôt sur le revenu payé ou restitué par tranche de revenu pour l’ensemble des foyers fiscaux, déduction faite des prélèvements sociaux, pour la partie correspondant à l’émission sur rôle. Ce montant ne prend pas en compte le crédit d’impôt relatif au prélèvement forfaitaire unique (PFU).
+| Somme de l’impôt sur le revenu payé ou restitué pour l’ensemble des foyers fiscaux, déduction faite des prélèvements sociaux, pour la partie correspondant à l’émission sur rôle. Ce montant ne prend pas en compte le crédit d’impôt relatif au prélèvement forfaitaire unique (PFU).
+
 
 | Revenu fiscal de reference des foyers fiscaux
 | FLOAT
-| 
+| Montant net des revenus et plus values retenues pour le calcul de l'impot.
+
+
+| Revenus_fiscal_de_reference_des_foyers fiscaux imposes
+| FLOAT
+| Montant net des revenus des_foyers fiscaux imposes et plus values retenues pour le calcul de l'impot.
 
 
 
