@@ -1,0 +1,14 @@
+.Colonne à garder
+[%autowidth]
+|===
+| Colonne | Type | Commentaire
+
+| Periode
+| Date
+| A ramener sur une année
+
+| Taux de chômage
+| FLOAT
+| 
+
+|===
