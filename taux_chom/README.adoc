@@ -1,3 +1,7 @@
+* [ ] Ramener tout sur une année (INT). Faire des moyennes
+* [ ] Renommer la colonne periode en "annee".
+* [ ] Faire une MR quand c'est fini
+
 .Colonne à garder
 [%autowidth]
 |===
