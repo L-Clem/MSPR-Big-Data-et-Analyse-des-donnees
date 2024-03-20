@@ -8,7 +8,11 @@ pkgs.mkShellNoCC {
     git
     python3
     python311Packages.jupyterlab
+    python311Packages.pandas
+    python311Packages.matplotlib
+    python311Packages.ipykernel
     postgresql
     curl
+    tmux
   ];
 }
