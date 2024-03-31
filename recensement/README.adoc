@@ -1,0 +1,16 @@
+[source,mermaid]
+....
+flowchart LR
+    can[cantons_cleaned.csv]
+    revar[reces_20xx_canton_ville_D.csv]
+    reip[recens.ipynb]
+    remer[merge_recens.ipynb]
+    outren[recens_20xx.csv]
+    fi[recens_2006-2020.csv]
+
+    can --> reip
+    revar --> reip
+    reip --> outren --> remer --> fi
+....
+
+Lien vers les variables gardées actuellement : https://drive.google.com/drive/folders/1NJoPKlDL-jB8bJ9ZpU9JrArqjWjGSfzk?usp=share_link
