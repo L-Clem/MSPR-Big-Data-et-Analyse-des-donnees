@@ -6,7 +6,7 @@ Estimation de population par département  : exel dispo -> 1975  a 2022 par depa
 
 Taux de natalité  => Transfomé nationale de 1994 a 2023
 
-Esperance de vie a la naissance par departement : exel dispo  ficheir a merges 1975 -> 2003
+Esperance de vie a la naissance par departement => Transfomé départementale homme et femme nationale de 1975 a 2023
 
 Taux brut de mortalité - Ensemble : exel dispo 1975-> 2023
 
