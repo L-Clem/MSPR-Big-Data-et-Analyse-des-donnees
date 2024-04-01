@@ -4,7 +4,7 @@ Taux d'activité  sur la région : exel dispo -> 1975 a 2022 homme femme sur la 
 
 Estimation de population par département  : exel dispo -> 1975  a 2022 par departement complete nice par tranche dage 
 
-Taux de natalité : exel dispo  -> 1994 -> 2023  taux nationale
+Taux de natalité  => Transfomé nationale de 1994 a 2023
 
 Esperance de vie a la naissance par departement : exel dispo  ficheir a merges 1975 -> 2003
 
