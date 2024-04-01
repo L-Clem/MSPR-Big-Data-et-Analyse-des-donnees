@@ -12,7 +12,7 @@ Taux brut de mortalité - Ensemble : exel dispo 1975-> 2023
 
 Taux de pauvreté => national de puis 1975
 
-Cotisants, retraités et rapport démographique tous régimes: exel dispo nationale de 2004 a 2021
+Cotisants, retraités et rapport démographique tous régimes=> Transfomé dispo nationale de 2004 a 2021
 
 Estimation population => Transfomé departement par age  de 1994 a 2023
 
