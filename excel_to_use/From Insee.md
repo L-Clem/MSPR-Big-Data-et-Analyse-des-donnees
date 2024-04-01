@@ -28,9 +28,9 @@ Effectifs de la fonction publique => Effectifs de la fonction publique 2010 2021
 
 Nombre de mariages => a travail Excel
 
-Taux dinflations => 1993 2023 nationale
+Taux dinflations => Transfomé nationale de 1995 a 2023
 
-Sentiment d'insécurité selon l'âge et le sexe  => Transfomé de 2007 a 2019
+Sentiment d'insécurité selon l'âge et le sexe  => Transfomé  nationale de 2007 a 2019
 
 Fécondité  => fichier national exel complet 1994 2023
 
