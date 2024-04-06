@@ -18,7 +18,7 @@ Estimation population => Transfomé departement par age  de 1994 a 2023
 
 Nombre Emploi salarié au 31 décembre => Transfomé departement par age  de 1975 a 2023
 
-Taux de chomage  : exel dispo 1996 2022 par departement  A travailler
+Taux de chomage => Transfomé departement par age  de 1982 a 2022 plein de catégories
 
 Évolution du revenu disponible brut et du pouvoir d’achat 1949 2023 Nationale
 
