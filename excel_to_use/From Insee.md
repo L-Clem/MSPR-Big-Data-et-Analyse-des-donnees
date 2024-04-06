@@ -8,7 +8,7 @@ Taux de natalité  => Transformé nationale de 1994 a 2023
 
 Esperance de vie a la naissance par departement => Transformé départementale homme et femme nationale de 1975 a 2023
 
-Taux brut de mortalité - Ensemble : exel dispo 1975-> 2023
+Taux brut de mortalité - Ensemble=> Transformé départementale departementale de 1975 a 2023
 
 Taux de pauvreté => Transformé nationale de 1975 a 2021 manque des années nationale
 
