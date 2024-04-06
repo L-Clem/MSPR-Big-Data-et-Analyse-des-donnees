@@ -38,13 +38,9 @@ Fécondité  => fichier national exel complet 1994 2023
 
 Retraités et bénéficiaires du minimum vieillesse 2005 --> 2021 national
 
-PArt detranger => national
-
-part dimmigré => national
-
 Dépenses et recettes publiques => Transformé  nationale de 1978 a 2023
 
-Inegalite en 3 fichier depuis 2002
+Inegalite => Transformé  nationale de 2002 a 2020 plusieur indeicatuer nationale
 
 Niveau de vie et indicateurs d’inégalités  depuis 1975 nationale
 
