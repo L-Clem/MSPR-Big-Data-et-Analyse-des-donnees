@@ -42,7 +42,7 @@ PArt detranger => national
 
 part dimmigré => national
 
-Dépenses et recettes publiques +> NAtional 1978 2023
+Dépenses et recettes publiques => Transfomé  nationale de 1978 a 2023
 
 Inegalite en 3 fichier depuis 2002
 
