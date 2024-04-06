@@ -10,7 +10,7 @@ Esperance de vie a la naissance par departement => Transformé départementale h
 
 Taux brut de mortalité - Ensemble : exel dispo 1975-> 2023
 
-Taux de pauvreté => national de puis 1975
+Taux de pauvreté => Transformé nationale de 1975 a 2021 manque des années nationale
 
 Cotisants, retraités et rapport démographique tous régimes=> Transformé dispo nationale de 2004 a 2021
 
