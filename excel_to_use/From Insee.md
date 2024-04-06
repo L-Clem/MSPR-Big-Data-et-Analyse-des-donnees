@@ -2,7 +2,7 @@
 
 Taux d'activité  sur la région : => Transformé nationale de 1975 a 2022 par tranche dage homme femme nationale
 
-Estimation de population par département  : exel dispo -> 1975  a 2022 par departement complete nice par tranche dage 
+Estimation de population par département  : -> Transformé 1975  a 2022 par departement complete nice par tranche dage 
 
 Taux de natalité  => Transformé nationale de 1994 a 2023
 
@@ -32,7 +32,7 @@ Taux dinflations => Transformé nationale de 1995 a 2023
 
 Sentiment d'insécurité selon l'âge et le sexe  => Transformé  nationale de 2007 a 2019
 
-Fécondité  => fichier national exel complet 1994 2023
+Fécondité  => Tansfomé national exel complet 1994 2023 plusieur indicateur
 
 Âge conjoncturel moyen de départ à la retraite selon le sexe => national Transformé 2004 - 2021
 
